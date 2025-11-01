@@ -12,6 +12,8 @@
 
 [Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Examples](#-usage-examples) • [Contributing](#-contributing)
 
+</div>
+
 ---
 
 <div align="center">
