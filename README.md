@@ -2074,16 +2074,12 @@ I'm passionate about sharing knowledge and building amazing AI solutions. Let's 
 
 ### 📱 Social Media & Professional Links
 
-<div align="center">
-
 | Platform | Link | Description |
 |----------|------|-------------|
 | 🐙 **GitHub** | [@MahendraMedapati27](https://github.com/MahendraMedapati27) | Check out my latest projects and code repositories |
 | 💼 **LinkedIn** | [Mahendra Medapati](https://www.linkedin.com/in/mahendra-medapati-429239289/) | Connect for professional discussions and industry insights |
 | 🐦 **X (Twitter)** | [@MahendraM27](https://x.com/MahendraM27) | Follow for updates, thoughts, and discussions on AI |
 | 📧 **Email** | [mahendramedapati.r469@gmail.com](mailto:mahendramedapati.r469@gmail.com) | Reach out directly for inquiries or collaboration |
-
-</div>
 
 ### ☕ Support This Project
 
